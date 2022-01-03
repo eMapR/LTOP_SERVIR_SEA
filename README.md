@@ -2,13 +2,11 @@
 _______________________________________________________________________
 description:
 
-This Repo will hold the work-flow to running LTOP on data for Southeast Asia. We aim to temporally smooth the source
-data that then will passed on for further processing. 
+This Repo will hold the work-flow to running LTOP on data for Southeast Asia; namely, Myanmar, Laos,Thailand, Vietnam, and Cambodia. We aim to temporally smooth the source data that then will passed on for further processing. The source data are the SERVIR composite images at the data location below.  
 ________________________________________________________________________
 init note:
 
-The script used here are from the development of the work-flow. Thus, all file path and parameters must be
-changed for this new region of processing.
+The script used here are from the development of the work-flow. Thus, all file path and parameters must be changed for this new region of processing.
 
 _________________________________________________________________________
 Region of interest:
@@ -22,6 +20,7 @@ Data Location:
 
 		projects/servir-mekong/regionalComposites
 
+	
 __________________________________________________________________________
 Data Prep:
 
